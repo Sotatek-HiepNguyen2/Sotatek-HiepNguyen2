@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sotatek-HiepNguyen2
+- 👀 I’m interested in technologies
+- 🌱 I’m currently learning web technologies such as React, Next, Nodejs and Golang
